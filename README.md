@@ -1,7 +1,5 @@
 # GameSpace
 
-![Foguete]("foguete.png")
-
 ## Projeto proposto
 
 Seu chefe requisitou que você desenvolva (utilizando qualquer linguagem/tecnologia) um simples Dashboard que permita exibir o ranking de pontuação do jogo ao qual sua empresa está desenvolvendo. Portanto, você deve:
